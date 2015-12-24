@@ -5,7 +5,7 @@ import sys,os
 def main():
     ##### Sanity checking #####
     #Check current Python version
-    checkVersion
+    checkVersion()
     #Try to import libraries
 
 
